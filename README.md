@@ -152,6 +152,14 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Kultala Aki
+- I'm learning programming in my spare time
+- Father of three, master of none..
+- Volunteer fire fighter over a decade
+- [![twitter-alt][twitter-img]](https://twitter.com/Kultalaaki)
+  [![github-alt][github-img]](https://github.com/Kultalaaki)
+- [![facebook-alt][facebook-img]](https://facebook.com/kultalaaki)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
